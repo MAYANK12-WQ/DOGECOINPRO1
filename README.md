@@ -83,7 +83,9 @@ dogecoin-predictor/
 - [ ] Uploaded clearly to GitHub.
 - [ ] Clearly shared & showcased professionally.
 !![newplot (10)](https://github.com/user-attachments/assets/880850f0-9f34-4589-9cb4-e270ec092080)
+
 [newplot (11)](https://github.com/user-attachments/assets/38503649-0251-4c80-86ee-710b4225bbb9)
+
 ![newplot (8)](https://github.com/user-attachments/assets/4a52321c-b793-410f-b1e9-c05a808759d0)
 
 ---
