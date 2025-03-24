@@ -65,14 +65,6 @@ dogecoin-predictor/
 │   └── Dogecoin_Price_Prediction.ipynb
 ├── README.md
 └── requirements.txt
-```
-
----
-
-### ✅ **Step 5: Professional Sharing & Networking**
-- Share the GitHub link clearly on LinkedIn, Discord, Twitter, etc.
-- Professionally document and showcase on your portfolio or resume.
-- Prepare a **short professional video** demo (optional, but recommended).
 
 ---
 
